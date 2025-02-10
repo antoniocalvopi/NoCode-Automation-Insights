@@ -77,3 +77,7 @@ Este escenario de automatización demuestra cómo se pueden combinar múltiples 
 
 ## Capturas
 
+![automation screenshoot]({0DFAF5E0-375F-4EC1-A255-69A9E21E077A}.png)
+
+
+![Chat screenshoot]({94949266-EE22-4764-A9DE-CA80DDE21B0D}.png)
