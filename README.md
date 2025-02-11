@@ -119,15 +119,19 @@ Las plataformas NoCode han cambiado la manera en que empresas y usuarios optimiz
 ## FAQ - Preguntas Frecuentes
 
 1. **¿Necesito saber programación para usar usar Make?**
+
    No, aunque conocimientos básicos de lógica pueden ser útiles, además de conocimiento de patrones de diseño. En la [bibliografía](docs/bibliografia.md) puedes consultar información sobre los patrones de diseño.
 
 2. **¿Make es gratuito?**
+
    Tiene un plan gratuito con límites. Consulta la documentación de [instalación](docs/instalacionMake.md) para conocer más sobre la plataforma y como empezar a usarla.
 
 3. **¿Cómo puedo contribuir?**
+
    Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para colaborar con mejoras, ejemplos o documentación.
 
 4. **¿Puedo usar este proyecto?**
+
    Sí, revisa la licencia en [LICENSE](LICENSE).
 
 ## Créditos
