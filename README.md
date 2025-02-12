@@ -33,6 +33,7 @@ Este proyecto forma parte de la asignatura **Plataformas, Frameworks y Tendencia
 │   ├── 📝 manual-usuarioMake.md      # Manual de uso detallado
 │   ├── 📝 casos-de-uso.md        # Aplicaciones y ejemplos
 │   ├── 📝 conclusiones-pros-cons.md  # Análisis crítico
+│   ├── 📝 crear_bot_telegram.md  # Instrucciones para crear un bot en telgram (doc adicional para ejemplos)
 ├── 📂 examples/               # Casos de uso en Make
 │   ├── 📂 simple-automation/  # Ejemplos básicos junto con doc + JSON
 │   ├── 📂 complex-automation/ # Ejemplo con múltiples integraciones doc + JSON
@@ -76,7 +77,7 @@ El archivo [buenas-practicas.md](docs/buenas-practicas.md) recopila algunos patr
 Ejemplos de patrones abordados:
 - **Patrón de Orquestación**
 - **Patrón de Event-Driven Workflow**
-- s...
+- ...
 
 ## Análisis de Mercado
 
@@ -96,14 +97,20 @@ El documento [opinion-pros-cons.md](docs/opinion-pros-cons.md) contiene un anál
 
 ### **Pros y Beneficios:**
 ✅ **Aumento de la Productividad:** Reduce tareas repetitivas y permite enfocarse en tareas más importantes.
+
 ✅ **Accesibilidad:** Cualquier persona sin conocimientos técnicos puede crear automatizaciones.
+
 ✅ **Reducción de Costos:** Disminuye el tiempo y dinero en desarrollo de software.
+
 ✅ **Escalabilidad:** Fácil integración con herramientas como Google Sheets, Slack y CRMs.
 
 ### **Contras y Limitaciones:**
 ❌ **Dependencia de Plataformas de Terceros:** Cambios en políticas pueden afectar los flujos de trabajo.
+
 ❌ **Falta de Personalización Avanzada:** Algunas necesidades requieren código "tradicional".
+
 ❌ **Seguridad y Privacidad:** Riesgos al almacenar datos en servidores externos.
+
 ❌ **Pérdida de Control:** Automatizaciones mal diseñadas pueden generar errores críticos. Make permite agregar modulos para controlar los errores. (es decir, como un try-catch)
 
 ### **¿Es realmente eficiente automatizar con NoCode?**
@@ -136,7 +143,7 @@ Las plataformas NoCode han cambiado la manera en que empresas y usuarios optimiz
 
 ## Créditos
 
-Este proyecto ha sido creado como parte de la asignatura **Plataformas, Frameworks y Tendencias Tecnológicas (PFTT)**.
+Este proyecto ha sido creado como parte de la asignatura **Plataformas Frameworks y Tendencias Tecnológicas (PFTT)**.
 
 - **Herramientas utilizadas:**
   - Make para la automatización.
