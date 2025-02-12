@@ -1,6 +1,6 @@
 # NoCode Automation Insights - Explorando la Automatización con Make
-[![Instalar](https://img.shields.io/badge/Instalar-Click_Here-blue)](/docs/)
-[![Star](https://img.shields.io/github/stars/usuario/repositorio?style=social)](https://github.com/antoniocalvopi/NoCode-Automation-Insights)
+[![Instalar](https://img.shields.io/badge/Instalar-Click_Here-blue)](/docs/instalacionMake.md)
+[![Star](https://img.shields.io/github/stars/antoniocalvopi/NoCode-Automation-Insights?style=social)](https://github.com/antoniocalvopi/NoCode-Automation-Insights)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Tabla de Contenidos
