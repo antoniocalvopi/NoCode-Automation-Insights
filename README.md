@@ -1,18 +1,5 @@
 # NoCode Automation Insights - Explorando la Automatización con Make
-<div class="button-container">
-    <button class="start-button">
-        ⚡ Start Clone
-        <a href="https://github.com/antoniocalvopi" style="color: #2468b4; padding: 10px;">
-            View GitHub Profile
-        </a>
-    </button>
-   <button class="follow-button">
-        ↑ Follow
-        <a href="https://antoniocalvopi.github.io/follow" style="color: #e93c45; padding: 10px;">
-            View Personal Page
-        </a>
-    </button>
-</div>
+
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Tabla de Contenidos
