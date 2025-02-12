@@ -1,5 +1,5 @@
 # NoCode Automation Insights - Explorando la Automatización con Make
-[![Star](https://img.shields.io/github/stars/usuario/repositorio?style=social)](https://github.com/antoniocalvopi/NoCode-Automation-Insights)
+<a class="github-button" href="https://github.com/antoniocalvopi" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @antoniocalvopi on GitHub">Follow @antoniocalvopi</a>
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Tabla de Contenidos
