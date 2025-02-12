@@ -1,6 +1,6 @@
-import GitHubButton from 'react-github-btn'
 # NoCode Automation Insights - Explorando la Automatización con Make
-<GitHubButton href="https://github.com/antoniocalvopi" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @antoniocalvopi on GitHub">Follow @antoniocalvopi</GitHubButton>
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Tabla de Contenidos
