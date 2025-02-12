@@ -1,6 +1,18 @@
 # NoCode Automation Insights - Explorando la Automatización con Make
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+<div class="button-container">
+    <button class="start-button">
+        ⚡ Start Clone
+        <a href="https://github.com/antoniocalvopi" style="color: #2468b4; padding: 10px;">
+            View GitHub Profile
+        </a>
+    </button>
+   <button class="follow-button">
+        ↑ Follow
+        <a href="https://antoniocalvopi.github.io/follow" style="color: #e93c45; padding: 10px;">
+            View Personal Page
+        </a>
+    </button>
+</div>
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Tabla de Contenidos
